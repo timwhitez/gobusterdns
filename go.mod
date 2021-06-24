@@ -1,4 +1,4 @@
-module github.com/timwhitez/gobuster
+module github.com/timwhitez/gobusterdns
 
 require (
 	github.com/google/uuid v1.2.0
