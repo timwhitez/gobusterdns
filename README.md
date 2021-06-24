@@ -1,5 +1,9 @@
 # gobusterdns
-lite version for gobuster. Only subdomain brute. 内网轻量化子域名爆破工具
+lite version of gobuster. 
+
+Only subdomain brute. 
+
+内网轻量化子域名爆破工具
 
 适合指定dns跑内网子域名
 
