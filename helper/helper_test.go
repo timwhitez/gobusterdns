@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/OJ/gobuster/v3/libgobuster"
+	"github.com/timwhitez/gobusterdns/libgobuster"
 )
 
 func TestParseExtensions(t *testing.T) {

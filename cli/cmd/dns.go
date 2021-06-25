@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/OJ/gobuster/v3/cli"
-	"github.com/OJ/gobuster/v3/gobusterdns"
-	"github.com/OJ/gobuster/v3/libgobuster"
+	"github.com/timwhitez/gobusterdns/cli"
+	"github.com/timwhitez/gobusterdns/gobusterdns"
+	"github.com/timwhitez/gobusterdns/libgobuster"
 	"github.com/spf13/cobra"
 )
 

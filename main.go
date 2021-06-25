@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/OJ/gobuster/v3/cli/cmd"
+	"github.com/timwhitez/gobusterdns/cli/cmd"
 	"os"
 )
 
@@ -24,7 +24,7 @@ import (
 func init(){
 	if len(os.Args) == 1{
 		fmt.Println("Usage: ")
-		fmt.Println(os.Args[0]+" -l d.txt -o out.txt -r dns-ip\n")
+		fmt.Println(os.Args[0]+" -l d.txt -o out.txt\n")
 		os.Exit(0)
 	}
 }

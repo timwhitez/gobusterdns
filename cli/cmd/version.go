@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/OJ/gobuster/v3/libgobuster"
+	"github.com/timwhitez/gobusterdns/libgobuster"
 	"github.com/spf13/cobra"
 )
 
